@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Shantanu</h1>
+<h1 align="center">Hi👋, I am Shantanu</h1>
 
 - <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="16" height="16"/> I’m currently learning **Android**
 
@@ -6,9 +6,11 @@
 
 - <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="play-store" width="16" height="16"/> Scheduler: https://play.google.com/store/apps/details?id=com.cowday.scheduler
 
-⚙️ Tools:
+</br>
+<b>⚙️ Tools</b>:
 
 <p align="left">
+  </br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -22,7 +24,7 @@
 ![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanu1k&count_private=true&hide=issues&show_icons=true&theme=radical)
 
 </br>
-🌐 Lets connect:
+<b>🌐 Lets connect</b>:
 
 <p align="left">
   </br>
