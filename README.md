@@ -2,7 +2,7 @@
 
 - <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="16" height="16"/> I’m currently learning **Android**
 
--📨 How to reach me **shantanukawade2@gmail.com**
+- 📨 How to reach me **shantanukawade2@gmail.com**
 
 - <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="play-store" width="16" height="16"/> Scheduler: https://play.google.com/store/apps/details?id=com.cowday.scheduler
 
