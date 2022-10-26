@@ -21,7 +21,7 @@
 </p>
 </br>
 
-![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanu1k&count_private=true&hide=issues&show_icons=true&theme=radical)
+![Shantanu's github stats](https://github-readme-stats.vercel.app/api?username=shantanu1k&show_icons=true&locale=en&count_private=true&hide=stars)
 
 </br>
 <b>🌐 Lets connect</b>:
